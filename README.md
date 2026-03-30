@@ -23,7 +23,7 @@ The dashboard provides insights into delivery delays, supplier performance, and 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Sigma_Dashboard.png)
 
 ---
 
